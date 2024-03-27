@@ -33,5 +33,7 @@ public class JwtTest {
         //校验是否到期! false 未到期 true到期
         boolean expiration = jwtHelper.isExpiration(token);
         System.out.println("expiration = " + expiration);
+
+        System.out.println("expiration2 = " + expiration);
     }
 }
