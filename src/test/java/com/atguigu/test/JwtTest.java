@@ -40,5 +40,6 @@ public class JwtTest {
         System.out.println("master-test");
         System.out.println("fix-hot");
         System.out.println("push commit github");
+        System.out.println("pull commit github");
     }
 }
