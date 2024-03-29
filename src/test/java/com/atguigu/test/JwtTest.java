@@ -39,5 +39,6 @@ public class JwtTest {
         System.out.println("expiration4 = " + expiration);
         System.out.println("master-test");
         System.out.println("fix-hot");
+        System.out.println("push commit github");
     }
 }
