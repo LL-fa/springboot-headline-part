@@ -38,5 +38,6 @@ public class JwtTest {
         System.out.println("expiration3 = " + expiration);
         System.out.println("expiration4 = " + expiration);
         System.out.println("master-test");
+        System.out.println("fix-hot");
     }
 }
